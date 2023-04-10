@@ -11,3 +11,5 @@ const decrement = () => {
     value = value - 1;
     counter.innerText = value;
 };
+
+console.log("Hello world");
